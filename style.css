@@ -1,0 +1,13 @@
+body{
+   height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+#btn{
+    padding: 20px 50px;
+    font-size: 35px;
+    border-radius: 10px;
+    cursor: pointer;
+}
